@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.navbtn{
+    margin-right: 50px;
+    border-radius: 20px;
+    height: 45px;
+    width: 140px;
+    border: none;
+    transition-property: all;
+    transition-duration: 0.6s;
+    background-color: aqua;
+}
+.navbtn:hover{
+    background-color: black;
+    color: white;
+}
+.a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.a:hover{
+    color: white;
+}
+.navbar{
+    background-color: purple;
+}
+
